@@ -27,7 +27,7 @@ const cpPlatforms = [
     link: "https://leetcode.com/u/Algorixx/",
     logo: <SiLeetcode size={32} className="text-[#FFA116]" />,
     color: "from-yellow-600/20 to-[#FFA116]/10",
-    problemsCount: "1917",
+    problemsCount: "2364",
     progress: 85
   },
   {
